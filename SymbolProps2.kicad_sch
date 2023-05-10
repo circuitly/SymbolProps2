@@ -340,7 +340,7 @@
   (symbol (lib_id "PropLib:PropsTest") (at 183.515 175.26 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 29a881e8-06df-4b6b-afb0-3c2df8355293)
-    (property "Reference" "U?" (id 0) (at 186.055 175.895 0)
+    (property "Reference" "U7" (id 0) (at 186.055 175.895 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PropsTest" (id 1) (at 186.055 173.99 0)
@@ -468,7 +468,7 @@
   (symbol (lib_id "PropLib:PropsTest") (at 64.135 161.29 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 302a6788-cdde-4eda-bd6a-10393a6c4075)
-    (property "Reference" "U?" (id 0) (at 61.595 160.655 0)
+    (property "Reference" "U3" (id 0) (at 61.595 160.655 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PropsTest" (id 1) (at 61.595 162.56 0)
@@ -596,7 +596,7 @@
   (symbol (lib_id "PropLib:PropsTest") (at 273.05 125.095 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3bb5f9d7-3747-4cee-9ede-8fcd24e3d2ab)
-    (property "Reference" "U?" (id 0) (at 273.685 122.555 0)
+    (property "Reference" "U12" (id 0) (at 273.685 122.555 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PropsTest" (id 1) (at 271.78 122.555 0)
@@ -724,7 +724,7 @@
   (symbol (lib_id "PropLib:PropsTest") (at 120.65 182.245 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5681e071-aff0-4628-ba3c-632cbed13cad)
-    (property "Reference" "U?" (id 0) (at 120.015 184.785 0)
+    (property "Reference" "U6" (id 0) (at 120.015 184.785 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PropsTest" (id 1) (at 121.92 184.785 0)
@@ -852,7 +852,7 @@
   (symbol (lib_id "PropLib:PropsTest") (at 43.18 54.61 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 607681bc-b8ab-4cc3-bcbe-d5cdf4623d17)
-    (property "Reference" "U?" (id 0) (at 45.72 53.975 0)
+    (property "Reference" "U1" (id 0) (at 45.72 53.975 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PropsTest" (id 1) (at 45.72 55.88 0)
@@ -980,7 +980,7 @@
   (symbol (lib_id "PropLib:PropsTest") (at 255.27 53.34 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 81611058-008a-4b8d-b0a8-652432d762c0)
-    (property "Reference" "U?" (id 0) (at 255.905 55.88 0)
+    (property "Reference" "U10" (id 0) (at 255.905 55.88 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PropsTest" (id 1) (at 254 55.88 0)
@@ -1108,7 +1108,7 @@
   (symbol (lib_id "PropLib:PropsTest") (at 191.77 59.69 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8285ad37-34fa-4bac-8b4e-ebcb827dd7e3)
-    (property "Reference" "U?" (id 0) (at 189.23 60.325 0)
+    (property "Reference" "U8" (id 0) (at 189.23 60.325 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PropsTest" (id 1) (at 189.23 58.42 0)
@@ -1236,7 +1236,7 @@
   (symbol (lib_id "PropLib:PropsTest") (at 120.65 116.205 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8722b612-3282-498c-be60-45a7b3205850)
-    (property "Reference" "U?" (id 0) (at 120.015 118.745 0)
+    (property "Reference" "U5" (id 0) (at 120.015 118.745 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PropsTest" (id 1) (at 121.92 118.745 0)
@@ -1364,7 +1364,7 @@
   (symbol (lib_id "PropLib:PropsTest") (at 255.27 171.45 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a431c1e4-6c80-42a2-b56c-6b8cbb3325b1)
-    (property "Reference" "U?" (id 0) (at 254.635 173.99 0)
+    (property "Reference" "U11" (id 0) (at 254.635 173.99 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PropsTest" (id 1) (at 256.54 173.99 0)
@@ -1492,7 +1492,7 @@
   (symbol (lib_id "PropLib:PropsTest") (at 191.77 110.49 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid bd6d4bff-5ad6-4b0b-b3d0-86cdd8ca4399)
-    (property "Reference" "U?" (id 0) (at 189.23 109.855 0)
+    (property "Reference" "U9" (id 0) (at 189.23 109.855 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PropsTest" (id 1) (at 189.23 111.76 0)
@@ -1620,7 +1620,7 @@
   (symbol (lib_id "PropLib:PropsTest") (at 115.57 64.77 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c09b4851-553e-4297-9d60-9ff4a40ae4ee)
-    (property "Reference" "U?" (id 0) (at 114.935 62.23 0)
+    (property "Reference" "U4" (id 0) (at 114.935 62.23 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PropsTest" (id 1) (at 116.84 62.23 0)
@@ -1748,7 +1748,7 @@
   (symbol (lib_id "PropLib:PropsTest") (at 45.72 109.22 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d1604d4c-584e-4e63-9761-bccff5ea1220)
-    (property "Reference" "U?" (id 0) (at 48.26 109.855 0)
+    (property "Reference" "U2" (id 0) (at 48.26 109.855 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PropsTest" (id 1) (at 48.26 107.95 0)
@@ -1878,41 +1878,41 @@
   )
 
   (symbol_instances
-    (path "/29a881e8-06df-4b6b-afb0-3c2df8355293"
-      (reference "U?") (unit 1) (value "PropsTest") (footprint "")
-    )
-    (path "/302a6788-cdde-4eda-bd6a-10393a6c4075"
-      (reference "U?") (unit 1) (value "PropsTest") (footprint "")
-    )
-    (path "/3bb5f9d7-3747-4cee-9ede-8fcd24e3d2ab"
-      (reference "U?") (unit 1) (value "PropsTest") (footprint "")
-    )
-    (path "/5681e071-aff0-4628-ba3c-632cbed13cad"
-      (reference "U?") (unit 1) (value "PropsTest") (footprint "")
-    )
     (path "/607681bc-b8ab-4cc3-bcbe-d5cdf4623d17"
-      (reference "U?") (unit 1) (value "PropsTest") (footprint "")
-    )
-    (path "/81611058-008a-4b8d-b0a8-652432d762c0"
-      (reference "U?") (unit 1) (value "PropsTest") (footprint "")
-    )
-    (path "/8285ad37-34fa-4bac-8b4e-ebcb827dd7e3"
-      (reference "U?") (unit 1) (value "PropsTest") (footprint "")
-    )
-    (path "/8722b612-3282-498c-be60-45a7b3205850"
-      (reference "U?") (unit 1) (value "PropsTest") (footprint "")
-    )
-    (path "/a431c1e4-6c80-42a2-b56c-6b8cbb3325b1"
-      (reference "U?") (unit 1) (value "PropsTest") (footprint "")
-    )
-    (path "/bd6d4bff-5ad6-4b0b-b3d0-86cdd8ca4399"
-      (reference "U?") (unit 1) (value "PropsTest") (footprint "")
-    )
-    (path "/c09b4851-553e-4297-9d60-9ff4a40ae4ee"
-      (reference "U?") (unit 1) (value "PropsTest") (footprint "")
+      (reference "U1") (unit 1) (value "PropsTest") (footprint "")
     )
     (path "/d1604d4c-584e-4e63-9761-bccff5ea1220"
-      (reference "U?") (unit 1) (value "PropsTest") (footprint "")
+      (reference "U2") (unit 1) (value "PropsTest") (footprint "")
+    )
+    (path "/302a6788-cdde-4eda-bd6a-10393a6c4075"
+      (reference "U3") (unit 1) (value "PropsTest") (footprint "")
+    )
+    (path "/c09b4851-553e-4297-9d60-9ff4a40ae4ee"
+      (reference "U4") (unit 1) (value "PropsTest") (footprint "")
+    )
+    (path "/8722b612-3282-498c-be60-45a7b3205850"
+      (reference "U5") (unit 1) (value "PropsTest") (footprint "")
+    )
+    (path "/5681e071-aff0-4628-ba3c-632cbed13cad"
+      (reference "U6") (unit 1) (value "PropsTest") (footprint "")
+    )
+    (path "/29a881e8-06df-4b6b-afb0-3c2df8355293"
+      (reference "U7") (unit 1) (value "PropsTest") (footprint "")
+    )
+    (path "/8285ad37-34fa-4bac-8b4e-ebcb827dd7e3"
+      (reference "U8") (unit 1) (value "PropsTest") (footprint "")
+    )
+    (path "/bd6d4bff-5ad6-4b0b-b3d0-86cdd8ca4399"
+      (reference "U9") (unit 1) (value "PropsTest") (footprint "")
+    )
+    (path "/81611058-008a-4b8d-b0a8-652432d762c0"
+      (reference "U10") (unit 1) (value "PropsTest") (footprint "")
+    )
+    (path "/a431c1e4-6c80-42a2-b56c-6b8cbb3325b1"
+      (reference "U11") (unit 1) (value "PropsTest") (footprint "")
+    )
+    (path "/3bb5f9d7-3747-4cee-9ede-8fcd24e3d2ab"
+      (reference "U12") (unit 1) (value "PropsTest") (footprint "")
     )
   )
 )
